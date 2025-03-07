@@ -19,7 +19,9 @@
             "developmentClient": true,
             "distribution": "internal",
             "android": {
-                "buildType": "apk"
+                "buildType": "apk",
+                "withoutCredentials": true,
+                "developmentClient": true
             },
             "ios": {
                 "buildConfiguration": "Debug"
