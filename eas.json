@@ -21,7 +21,7 @@
             "android": {
                 "buildType": "apk",
                 "withoutCredentials": true,
-                "developmentClient": true
+                "developmentClient": false
             },
             "ios": {
                 "buildConfiguration": "Debug"
